@@ -1,5 +1,6 @@
-# panel-download
+# ✈️ 科学上网资源
 
-![GitHub repo size](https://img.shields.io/github/repo-size/xcxnig/ssr-download?style=flat-square)
-![Travis (.com)](https://img.shields.io/travis/com/sspanel-uim/ssr-download-updater?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/xcxnig/ssr-download?style=flat-square)
+## Windows
+[ V2ray可视化客户端 V2rayN]( V2ray可视化客户端)
+
+## Android
